@@ -85,7 +85,7 @@ def WIFI_SCAN():
 
 def Sherlock():
     username = input("Kullanıcı Adı Giriniz: ")
-    os.system("python3 \UsernameFinder/sherlock.py --timeout 1 "+username)
+    os.system("python3 \Sherlock/sherlock.py --timeout 1 "+username)
     startup()
 
 
