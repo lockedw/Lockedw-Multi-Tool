@@ -13,25 +13,25 @@ Dieses Projekt ist ein Skript, das viele Hacktools enthält und es Ihnen auch er
 
 ## Bilgisayarınızda Çalıştırın
 
-Projeyi klonlayın
+Clone Project
 
 ```bash
   git clone https://github.com/lockedw/Lockedw-Multi-Scanner-Tool
 ```
 
-Proje dizinine gidin
+Go to directory
 
 ```bash
   cd Lockedw-Multi-Scanner-Tool
 ```
 
-Gerekli paketleri yükleyin
+Install packages
 
 ```bash
   pip install -r req.txt
 ```
 
-Sunucuyu çalıştırın
+Start script
 
 ```bash
   python3 scanner.py
@@ -86,7 +86,7 @@ DE
 Bitte verwenden Sie das Programm, ohne Code zu stehlen, ich werde es kontinuierlich aktiv weiterentwickeln.
 Es handelt sich nur um Bildungsinhalte, ich bin nicht verantwortlich für unethische Verwendung (auf keinen Fall unethisch verwenden!!!)
 
-
+<div class="tenor-gif-embed" data-postid="17417874" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hacker-typing-hacking-computer-codes-gif-17417874">Hacker Typing GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
