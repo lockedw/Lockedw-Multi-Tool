@@ -86,8 +86,7 @@ DE
 Bitte verwenden Sie das Programm, ohne Code zu stehlen, ich werde es kontinuierlich aktiv weiterentwickeln.
 Es handelt sich nur um Bildungsinhalte, ich bin nicht verantwortlich für unethische Verwendung (auf keinen Fall unethisch verwenden!!!)
 
-<div class="tenor-gif-embed" data-postid="17417874" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hacker-typing-hacking-computer-codes-gif-17417874">Hacker Typing GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-
+![hacker-typing](https://user-images.githubusercontent.com/104690046/232248792-7884d044-7f46-41f4-afd8-f7b7026476b8.gif)
 
   
