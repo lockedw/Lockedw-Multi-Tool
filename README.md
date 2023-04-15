@@ -89,4 +89,13 @@ Es handelt sich nur um Bildungsinhalte, ich bin nicht verantwortlich für unethi
 
 ![hacker-typing](https://user-images.githubusercontent.com/104690046/232248792-7884d044-7f46-41f4-afd8-f7b7026476b8.gif)
 
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+
+echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+
+sudo apt update
+
+sudo apt install brave-browser
+
+
   
