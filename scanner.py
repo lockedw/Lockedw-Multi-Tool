@@ -431,6 +431,8 @@ def English():
 
 
 update()
+time.sleep(3)
+clear()
 banner()
 firststartup()
 
