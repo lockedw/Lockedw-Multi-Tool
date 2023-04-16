@@ -257,6 +257,7 @@ def banner():
     ascii_banner = pyfiglet.figlet_format("LOCKED Multi-Tool")
     print(ascii_banner)
     print("Creator Erdal'Lockedw'Konuk")
+    print("test")
 
 
 def back_TR():
