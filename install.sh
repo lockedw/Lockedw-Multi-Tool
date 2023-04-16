@@ -32,3 +32,7 @@ else
     ecit 1
 fi
 chmod +x locked-toolkit.sh
+git clone https://github.com/trustedsec/social-engineer-toolkit.git
+cd social-engineer-toolkit
+sudo pip3 install -r requirements.txt
+sudo python3 setup.py 
