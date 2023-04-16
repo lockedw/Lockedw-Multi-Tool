@@ -9,9 +9,14 @@ import re
 import os
 import time
 
+
+def update():
+    print("Updating")
+    os.system("git init")
+    os.system("git pull https://github.com/lockedw/Lockedw-Multi-Scanner-Tool ")
+
 def Setoolkit():
     os.system("setoolkit")
-
 
 def Locked_Scanner_TR():
     target = input(str("Hedef IP: "))
@@ -424,6 +429,8 @@ def English():
             print("Bye bye :(")
             sys.exit()
 
+
+update()
 banner()
 firststartup()
 
