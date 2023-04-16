@@ -31,4 +31,4 @@ else
     echo [ERROR] Unable to copy
     ecit 1
 fi
-
+chmod +x locked-toolkit.sh
