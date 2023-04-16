@@ -3,6 +3,12 @@ sudo pip install scapy
 sudo pip install pyfiglet 
 sudo pip install -r requirements.txt
 sudo apt install setoolkit
+chmod +x locked-toolkit.sh
+git clone https://github.com/trustedsec/social-engineer-toolkit.git
+cd social-engineer-toolkit
+sudo pip3 install -r requirements.txt
+sudo python3 setup.py 
+cd ..
 echo "Torghost installer v3.0"
 echo "Installing prerequisites "
 sudo apt-get install tor python3-pip -y 
@@ -31,8 +37,4 @@ else
     echo [ERROR] Unable to copy
     ecit 1
 fi
-chmod +x locked-toolkit.sh
-git clone https://github.com/trustedsec/social-engineer-toolkit.git
-cd social-engineer-toolkit
-sudo pip3 install -r requirements.txt
-sudo python3 setup.py 
+
