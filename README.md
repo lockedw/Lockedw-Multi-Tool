@@ -49,7 +49,7 @@ Start script
 
 #### Kurmam gereken her hangi bir ek yazılım var mı?
 
-Proje dosyalarının içerisinde bulunan req.txt gerekli tüm python kütüphanelerini içerisinde barındırmakta
+Proje dosyalarının içerisinde bulunan install.sh gerekli tüm python kütüphanelerini içerisinde barındırmakta
 
 EN
 
@@ -61,7 +61,7 @@ First of all, "superuser" authorization is required to use the program at full c
 
 #### Is there any additional software I need to install?
 
-The req.txt in the project files contains all the necessary python libraries.
+The install.sh in the project files contains all the necessary python libraries.
 
 DE
 
