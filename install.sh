@@ -2,6 +2,7 @@ sudo pip install python-nmap
 sudo pip install scapy 
 sudo pip install pyfiglet 
 sudo pip install -r requirements.txt
+sudo apt install setoolkit
 echo "Torghost installer v3.0"
 echo "Installing prerequisites "
 sudo apt-get install tor python3-pip -y 
