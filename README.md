@@ -51,7 +51,7 @@ Start script
 
 Proje dosyalarının içerisinde bulunan install.sh gerekli tüm python kütüphanelerini içerisinde barındırmakta
 
-EN
+
 
 ## Frequently asked Questions
 
@@ -63,7 +63,7 @@ First of all, "superuser" authorization is required to use the program at full c
 
 The install.sh in the project files contains all the necessary python libraries.
 
-DE
+
 
 ## Häufig gestellte Fragen
 
