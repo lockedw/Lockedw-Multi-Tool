@@ -37,7 +37,7 @@ Install packages
 Start script
 
 ```bash
-  python3 scanner.py
+  ./locked-toolkit.sh
 ```
 
   
